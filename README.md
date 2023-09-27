@@ -5,3 +5,5 @@ This is a musical genre classifier based on rough path theory. I used the signat
 This depository contains both the project code and a project report. I used the GTZAN dataset, which consists of 1,000 songs across 10 genres, with 100 songs per genre. 
 
 The main issue with this project is the efficiency of the signature transform. If I ever revisit this project, the signature transform will be made more efficient to allow for greater resolution (in terms of the raw waveform) and depth (in terms of levels of the signature transform). 
+
+This project served as the final project for COMPSCI 671D: Theory and Algorithms for Machine Learning taught by Professor Cynthia Rudin at Duke University in the Fall of 2021. 
